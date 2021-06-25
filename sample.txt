@@ -10,3 +10,12 @@ git show-->show which commit id is perform
 and 
 how many times and how many times
 
+how to make changes in git?
+1) Before adding to staging area.
+
+run---> git restore sample.txt
+2) after adding to staging area.
+run 2c command.
+			1) git restore staged sample.txt[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D---staged sample.txt
+			2) git restore sample.txt
+
