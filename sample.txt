@@ -1,7 +1,12 @@
 this is my first file
-in linuxthis is a git session and checking
+in linux
+
+This is a git session and checking
 git ids
 
 git log--> show/check how many times commit done
-git show-->show which commit id is perform a[C[C[C[C[C[C[C[C[[C[6~[3~how many times and how many times
+
+git show-->show which commit id is perform 
+and 
+how many times and how many times
 
