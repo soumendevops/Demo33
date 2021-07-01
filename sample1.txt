@@ -37,3 +37,23 @@ how to upload from remote repo to local
 git pull
 
 
+sshkeys 
+==============
+2 types  of keys
+1) public key id_rsa.pub
+2) private ket id_rsa
+
+
+=================
+how to create key
+ssh -keygen -t rsa
+creat both keys in home directory
+`/.ssh -- home directory
+===================================================
+
+Public Repo
+push -- ask credentials
+pull -- it will not ask any credetails
+
+Private Repo
+push & Pull -- it will ask credentails.
