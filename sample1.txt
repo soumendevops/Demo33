@@ -1,0 +1,27 @@
+Github.com
+Repo--> Create Repository Directory
+Upload
+
+==============================================
+Steps to uplaod from local to remote Repo
+-------------------
+git remote add origin https://github.com/soumendevops/Demo33.git
+# add remote Repo to local 
+
+git branch -M main
+# rename master as Main Branch
+
+git push -u origin main 
+#to push comit from local to remote
+
+-u --> upload
+origin --> which repo
+# alias Name or alternative name of your local repos
+Main --> which branch
+
+========================================
+
+git remote -v 
+# list all added remote repos locally(show)
+
+
