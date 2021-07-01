@@ -1,0 +1,5 @@
+stash command 
+#to save current working directory
+
+# git stash list
+
