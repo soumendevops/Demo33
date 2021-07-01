@@ -18,8 +18,12 @@ git push -u origin main
 origin --> which repo
 # alias Name or alternative name of your local repos
 Main --> which branch
+=============================================================
+git push 
 
-========================================
+#authomatically upload from local to remote repo
+
+======================================
 
 git remote -v 
 # list all added remote repos locally(show)
