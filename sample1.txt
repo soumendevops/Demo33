@@ -28,4 +28,12 @@ git push
 git remote -v 
 # list all added remote repos locally(show)
 
+==============================================================
+how to uplaod from local to remote repo
+git push
+
+-----------------
+how to upload from remote repo to local
+git pull
+
 
