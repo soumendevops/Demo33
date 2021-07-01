@@ -3,3 +3,13 @@ stash command
 
 # git stash list
 
+GIT Branch command
+#create branch
+[A[C[C[C[C[C[C[C[Cnewbranch
+1)git branch --master
+2)git log --oneline --id status
+#git branch branchname
+3)git branch DEV
+#switch to new branch
+4)git checkout DEV
+#switch to branch DEV
